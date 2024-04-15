@@ -1,1 +1,5 @@
-styles
+/* styles */
+p {
+    color: aqua
+    padding: 2px;
+}
